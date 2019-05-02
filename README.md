@@ -10,3 +10,4 @@ However, the above diagram does not explain how Bitcoin enables peer-to-peer val
 The answer is: the bitcoin system is based on "replicable, shared books". 
 Each participant (full node) in the bitcoin network has a complete copy of the transaction ledger, and the magic of the system is how it makes everyone's copy consistent with that of others. 
 Therefore, the correct schematic diagram should be the following figure, where each participant can obtain information from the same replicable, shared ledger.
+https://github.com/ansonwongphbs/www.github.com-ansonwongphbs-PHBS_BlockChain_2018/blob/master/2.png
